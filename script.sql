@@ -1,3 +1,5 @@
+create database QuanLyKhachSan;
+
 -- 1. Tạo bảng theo cấu trúc
 -- Tạo bảng Customer
 create table Customer(
