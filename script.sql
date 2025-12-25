@@ -1,6 +1,7 @@
+-- 0. Tạo database Quản lý khách sạn
 create database QuanLyKhachSan;
 
--- 1. Tạo bảng theo cấu trúc
+-- 1. Tạo bảng theo cấu trúc (schema public)
 -- Tạo bảng Customer
 create table Customer(
     customer_id varchar(50) primary key not null,
